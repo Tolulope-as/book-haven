@@ -1,0 +1,223 @@
+[
+    {
+      "title": "Water baby",
+      "author": "Chioma Okereke",
+      "genre": "Fiction",
+      "image": "/images/fb2.jpg",
+      "price" : "$50.00"
+    },
+    {
+      "title": "An African Abroad",
+      "author": "Olabisi Ajala",
+      "genre": "Non-Fiction",
+      "image": "/images/nf2.png",
+      "price" : "$58.00"
+    },
+    {
+      "title": "The Secret Lives Of Baba Segi's Wives",
+      "author": "Lola Shoneyin",
+      "genre": "Romance",
+      "image": "/images/r1.jpg",
+      "price" : "$57.00"
+    },
+    {
+          "title": "Wake Me When ",
+          "author": "Odafe Atogun",
+          "genre": "Fiction",
+          "image": "/images/fb1.jpg",
+          "price" : "$70.00"
+        },
+        {
+          "title": "I am still with you",
+          "author": "Emmanuel Iduma",
+          "genre": "Non-Fiction",
+          "image": "/images/nf3.png",
+          "price" : "$62.00"
+        },
+        {
+          "title": "A Broken People's Playlist",
+          "author": "Chimeka Garricks",
+          "genre": "Romance",
+          "image": "/images/r2.jpg",
+          "price" : "$45.00"
+
+        },
+        {
+          "title": "Ogadinma",
+          "author": "Ukamaka Olisakwe ",
+          "genre": "Fiction",
+          "image": "/images/fb3.png",
+          "price" : "$38.00"
+
+        },
+        {
+          "title": "Small by Small",
+          "author": "Ike Anya",
+          "genre": "Non-Fiction",
+          "image": "/images/nf1.png",
+          "price" : "$70.00"
+
+        },
+        {
+          "title": "Nigerian Men Will Stain Your White",
+          "author": "Alexandria Humphrey",
+          "genre": "Romance",
+          "image": "/images/r3.jpg",
+          "price" : "$50.00"
+
+        },
+      
+        {
+          "title": "EveryThing Is Not Enough",
+          "author": "Lola Akinmade",
+          "genre": "Fiction",
+          "image": "/images/fb5.png",
+          "price" : "$63.00"
+
+        },
+        {
+          "title": "Free Troubles",
+          "author": "Obari Gomba",
+          "genre": "Non-Fiction",
+          "image": "/images/nf4.png",
+          "price" : "$47.00"
+
+        },
+        {
+          "title": "Yinka Where is your Husband",
+          "author": "Lizzie Damilola",
+          "genre": "Romance",
+          "image": "/images/r5.jpg",
+          "price" : "35.00"
+
+        },
+      
+        {
+          "title": "SANYA",
+          "author": "Oyin Olugbile",
+          "genre": "Fiction",
+          "image": "/images/fb6.png",
+          "price" : "$59.00"
+
+        },
+        {
+          "title": "AKE",
+          "author": "Wole Soyinka",
+          "genre": "Non-Fiction",
+          "image": "/images/nf5.webp",
+          "price" : "$70.00"
+
+        },
+        {
+          "title": "Bridges are for Burning",
+          "author": "Bina Idonije",
+          "genre": "Romance",
+          "image": "/images/r6.png",
+          "price" : "$60.00"
+
+        },
+      
+        {
+          "title": "It's Elementary",
+          "author": "Elise Bryant",
+          "genre": "Fiction",
+          "image": "/images/fb8.jpg",
+          "price" : "$60.00"
+
+        },
+        {
+          "title": "Where is your Wrapper",
+          "author": "Bisi Adeleye",
+          "genre": "Non-Fiction",
+          "image": "/images/nf6.jpg",
+          "price" : "$78.00"
+
+        },
+        {
+          "title": "Love Marry Kill",
+          "author": "Zukiswa Wanner",
+          "genre": "Romance",
+          "image": "/images/r7.png",
+          "price" : "$53.00"
+
+        },
+     
+        {
+          "title": "Your Dark Secrets",
+          "author": "Elle Marr",
+          "genre": "Fiction",
+          "image": "/images/fb7.jpg",
+          "price" : "$29.00"
+
+        },
+        {
+          "title": "Becoming",
+          "author": "Michelle Obama",
+          "genre": "Non-Fiction",
+          "image": "/images/b0k1.jpg",
+          "price" : "$50.00"
+
+        },
+        {
+          "title": "You Made A Fool",
+          "author": "Akwaeke Emezi",
+          "genre": "Romance",
+          "image": "/images/r8.jpg",
+          "price" : "$40.00"
+
+        },
+     
+        {
+          "title": "After The End",
+          "author": "Olukorede & Yishau",
+          "genre": "Fiction",
+          "image": "/images/fb4.png",
+          "price" : "$80.00"
+
+        },
+        {
+          "title": "The Astrology House",
+          "author": "Carinn Jade",
+          "genre": "Non-Fiction",
+          "image": "/images/myst2.jpg",
+          "price" : "$57.00"
+
+        },
+        {
+          "title": "Mechanics of Yenogoa ",
+          "author": "Michael Afenfia",
+          "genre": "Romance",
+          "image": "/images/bk12.png",
+          "price" : "$59.00"
+
+        }
+        ,
+    
+        {
+          "title": "A Spell of Good Things",
+          "author": "Ayobami adebayo",
+          "genre": "Fiction",
+          "image": "/images/bk13.webp",
+          "price" : "$52.00"
+
+        },
+        {
+          "title": "I am Still with You",
+          "author": "Emmanuel Idoma",
+          "genre": "Non-Fiction",
+          "image": "/images/bk15.webp",
+          "price" : "$45.00"
+
+        },
+        {
+          "title": "Matters Tommorrow",
+          "author": "Damilare Kuku",
+          "genre": "Romance",
+          "image": "/images/f7.jpg",
+          "price" : "$70.00"
+
+        }
+                             
+                                          
+  ]
+  

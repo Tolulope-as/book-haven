@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import booksData from '../book.json';
 
 import '../index.css'
-import Navbar from "../components/NavBar";
+import Navbar from '../components/Navbar';
 import HeroImage1 from '../assets/images/bk6.webp';
 import HeroImage2 from '../assets/images/b0k9.jpg';
 import HeroImage3 from '../assets/images/bk10.jpg';

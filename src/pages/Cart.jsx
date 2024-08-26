@@ -20,7 +20,9 @@ function Cart() {
     };
     return (
         <section className="flex-column d-flex justify-content-center align-items-center bg-gray">
-            <h4 className='trending-heading'>Shopping Cart</h4>
+            <h4 className='trending-heading'>Shopping Cart
+                
+            </h4>
             <div className="cart bg-white">
                 {cartItems.length === 0 ? (
                     <p>Your cart is empty</p>
